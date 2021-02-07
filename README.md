@@ -1,1 +1,1 @@
-# dryer-notify
+Using NodeMCU Board and BME280 sensor go get status of the dryer
